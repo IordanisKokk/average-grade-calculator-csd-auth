@@ -1,0 +1,35 @@
+{
+    "courses": [
+      {
+        "course": "Basic Programming Principles",
+        "ects": 9,
+        "grade":
+      },
+      {
+        "course": "Mathematical Analysis I",
+        "ects": 5,
+        "grade":
+      },
+      {
+        "course": "Introduction to Computer Science",
+        "ects": 4,
+        "grade":
+      },
+      {
+        "course": "Linear Algebra",
+        "ects": 5,
+        "grade":
+      },
+      {
+        "course": "Discrete Math",
+        "ects": 7,
+        "grade":
+      },
+      {
+        "course": "Data Structures",
+        "ects": 7,
+        "grade":
+      }
+    ]
+  }
+  
