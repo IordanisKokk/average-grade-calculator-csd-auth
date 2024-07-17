@@ -12,7 +12,7 @@ Currently only works with .csv files. modify the csv file with your own grades.
 
 # How to use
 
-First you should modify the data.csv file, using Microsoft Excel, Google Sheets or even a text editor, to add your grades for each course. 
+First you should modify the `data.csv` file, using Microsoft Excel, Google Sheets or even a text editor, to add your grades for each course. 
 Then run the script and you will get the expected average grade.
 
 run the script with the following command:
